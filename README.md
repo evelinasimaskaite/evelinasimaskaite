@@ -1,6 +1,6 @@
 ## Hi, I am Evelina :vulcan_salute:
 
-:white_check_mark: **Check out my work portfolio in DataProjects repository**
+:white_check_mark: **Check out my work portfolio in DataProjects repository below**
 
 #### About me:
 
